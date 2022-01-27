@@ -8,12 +8,11 @@ SMS Bomber xclown для элиты
 2. Установите Git для Windows, скачав его [здесь](https://git-scm.com/download/win).
 3. Клонируйте репозиторий при помощи git и перейдите в папку:
     ```bash
-    git clone https://github.com/crinny/b0mb3r
+    git clone https://github.com/xclowngod/xclown
     cd b0mb3r
     ```
 4. Установите все необходимые библиотеки и запустите скрипт:
     ```bash
-    pip install -r requirements.txt
     python main.py
     ```
 5. Если в вашем браузере не открылся веб-интерфейс, перейдите по ссылке в консоли.
